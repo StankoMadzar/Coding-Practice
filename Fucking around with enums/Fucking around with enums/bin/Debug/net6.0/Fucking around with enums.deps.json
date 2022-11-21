@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Fucking around with enums/1.0.0": {
+        "runtime": {
+          "Fucking around with enums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fucking around with enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

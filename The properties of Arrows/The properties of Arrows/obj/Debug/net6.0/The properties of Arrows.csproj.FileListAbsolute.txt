@@ -1,0 +1,15 @@
+C:\Users\stank\source\repos\The properties of Arrows\The properties of Arrows\bin\Debug\net6.0\The properties of Arrows.exe
+C:\Users\stank\source\repos\The properties of Arrows\The properties of Arrows\bin\Debug\net6.0\The properties of Arrows.deps.json
+C:\Users\stank\source\repos\The properties of Arrows\The properties of Arrows\bin\Debug\net6.0\The properties of Arrows.runtimeconfig.json
+C:\Users\stank\source\repos\The properties of Arrows\The properties of Arrows\bin\Debug\net6.0\The properties of Arrows.dll
+C:\Users\stank\source\repos\The properties of Arrows\The properties of Arrows\bin\Debug\net6.0\The properties of Arrows.pdb
+C:\Users\stank\source\repos\The properties of Arrows\The properties of Arrows\obj\Debug\net6.0\The properties of Arrows.csproj.AssemblyReference.cache
+C:\Users\stank\source\repos\The properties of Arrows\The properties of Arrows\obj\Debug\net6.0\The properties of Arrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stank\source\repos\The properties of Arrows\The properties of Arrows\obj\Debug\net6.0\The properties of Arrows.AssemblyInfoInputs.cache
+C:\Users\stank\source\repos\The properties of Arrows\The properties of Arrows\obj\Debug\net6.0\The properties of Arrows.AssemblyInfo.cs
+C:\Users\stank\source\repos\The properties of Arrows\The properties of Arrows\obj\Debug\net6.0\The properties of Arrows.csproj.CoreCompileInputs.cache
+C:\Users\stank\source\repos\The properties of Arrows\The properties of Arrows\obj\Debug\net6.0\The properties of Arrows.dll
+C:\Users\stank\source\repos\The properties of Arrows\The properties of Arrows\obj\Debug\net6.0\refint\The properties of Arrows.dll
+C:\Users\stank\source\repos\The properties of Arrows\The properties of Arrows\obj\Debug\net6.0\The properties of Arrows.pdb
+C:\Users\stank\source\repos\The properties of Arrows\The properties of Arrows\obj\Debug\net6.0\The properties of Arrows.genruntimeconfig.cache
+C:\Users\stank\source\repos\The properties of Arrows\The properties of Arrows\obj\Debug\net6.0\ref\The properties of Arrows.dll

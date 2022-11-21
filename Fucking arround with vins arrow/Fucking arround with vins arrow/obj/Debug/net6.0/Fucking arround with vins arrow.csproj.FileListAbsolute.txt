@@ -1,0 +1,15 @@
+C:\Users\stank\source\repos\Fucking arround with vins arrow\Fucking arround with vins arrow\bin\Debug\net6.0\Fucking arround with vins arrow.exe
+C:\Users\stank\source\repos\Fucking arround with vins arrow\Fucking arround with vins arrow\bin\Debug\net6.0\Fucking arround with vins arrow.deps.json
+C:\Users\stank\source\repos\Fucking arround with vins arrow\Fucking arround with vins arrow\bin\Debug\net6.0\Fucking arround with vins arrow.runtimeconfig.json
+C:\Users\stank\source\repos\Fucking arround with vins arrow\Fucking arround with vins arrow\bin\Debug\net6.0\Fucking arround with vins arrow.dll
+C:\Users\stank\source\repos\Fucking arround with vins arrow\Fucking arround with vins arrow\bin\Debug\net6.0\Fucking arround with vins arrow.pdb
+C:\Users\stank\source\repos\Fucking arround with vins arrow\Fucking arround with vins arrow\obj\Debug\net6.0\Fucking arround with vins arrow.csproj.AssemblyReference.cache
+C:\Users\stank\source\repos\Fucking arround with vins arrow\Fucking arround with vins arrow\obj\Debug\net6.0\Fucking arround with vins arrow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stank\source\repos\Fucking arround with vins arrow\Fucking arround with vins arrow\obj\Debug\net6.0\Fucking arround with vins arrow.AssemblyInfoInputs.cache
+C:\Users\stank\source\repos\Fucking arround with vins arrow\Fucking arround with vins arrow\obj\Debug\net6.0\Fucking arround with vins arrow.AssemblyInfo.cs
+C:\Users\stank\source\repos\Fucking arround with vins arrow\Fucking arround with vins arrow\obj\Debug\net6.0\Fucking arround with vins arrow.csproj.CoreCompileInputs.cache
+C:\Users\stank\source\repos\Fucking arround with vins arrow\Fucking arround with vins arrow\obj\Debug\net6.0\Fucking arround with vins arrow.dll
+C:\Users\stank\source\repos\Fucking arround with vins arrow\Fucking arround with vins arrow\obj\Debug\net6.0\refint\Fucking arround with vins arrow.dll
+C:\Users\stank\source\repos\Fucking arround with vins arrow\Fucking arround with vins arrow\obj\Debug\net6.0\Fucking arround with vins arrow.pdb
+C:\Users\stank\source\repos\Fucking arround with vins arrow\Fucking arround with vins arrow\obj\Debug\net6.0\Fucking arround with vins arrow.genruntimeconfig.cache
+C:\Users\stank\source\repos\Fucking arround with vins arrow\Fucking arround with vins arrow\obj\Debug\net6.0\ref\Fucking arround with vins arrow.dll

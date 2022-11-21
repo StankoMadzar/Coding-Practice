@@ -1,0 +1,15 @@
+C:\Users\stank\source\repos\The Replicator of D'To\The Replicator of D'To\bin\Debug\net6.0\The Replicator of D'To.exe
+C:\Users\stank\source\repos\The Replicator of D'To\The Replicator of D'To\bin\Debug\net6.0\The Replicator of D'To.deps.json
+C:\Users\stank\source\repos\The Replicator of D'To\The Replicator of D'To\bin\Debug\net6.0\The Replicator of D'To.runtimeconfig.json
+C:\Users\stank\source\repos\The Replicator of D'To\The Replicator of D'To\bin\Debug\net6.0\The Replicator of D'To.dll
+C:\Users\stank\source\repos\The Replicator of D'To\The Replicator of D'To\bin\Debug\net6.0\The Replicator of D'To.pdb
+C:\Users\stank\source\repos\The Replicator of D'To\The Replicator of D'To\obj\Debug\net6.0\The Replicator of D'To.csproj.AssemblyReference.cache
+C:\Users\stank\source\repos\The Replicator of D'To\The Replicator of D'To\obj\Debug\net6.0\The Replicator of D'To.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stank\source\repos\The Replicator of D'To\The Replicator of D'To\obj\Debug\net6.0\The Replicator of D'To.AssemblyInfoInputs.cache
+C:\Users\stank\source\repos\The Replicator of D'To\The Replicator of D'To\obj\Debug\net6.0\The Replicator of D'To.AssemblyInfo.cs
+C:\Users\stank\source\repos\The Replicator of D'To\The Replicator of D'To\obj\Debug\net6.0\The Replicator of D'To.csproj.CoreCompileInputs.cache
+C:\Users\stank\source\repos\The Replicator of D'To\The Replicator of D'To\obj\Debug\net6.0\The Replicator of D'To.dll
+C:\Users\stank\source\repos\The Replicator of D'To\The Replicator of D'To\obj\Debug\net6.0\refint\The Replicator of D'To.dll
+C:\Users\stank\source\repos\The Replicator of D'To\The Replicator of D'To\obj\Debug\net6.0\The Replicator of D'To.pdb
+C:\Users\stank\source\repos\The Replicator of D'To\The Replicator of D'To\obj\Debug\net6.0\The Replicator of D'To.genruntimeconfig.cache
+C:\Users\stank\source\repos\The Replicator of D'To\The Replicator of D'To\obj\Debug\net6.0\ref\The Replicator of D'To.dll

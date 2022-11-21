@@ -1,0 +1,15 @@
+C:\Users\stank\source\repos\Taking a Number\Taking a Number\bin\Debug\net6.0\Taking a Number.exe
+C:\Users\stank\source\repos\Taking a Number\Taking a Number\bin\Debug\net6.0\Taking a Number.deps.json
+C:\Users\stank\source\repos\Taking a Number\Taking a Number\bin\Debug\net6.0\Taking a Number.runtimeconfig.json
+C:\Users\stank\source\repos\Taking a Number\Taking a Number\bin\Debug\net6.0\Taking a Number.dll
+C:\Users\stank\source\repos\Taking a Number\Taking a Number\bin\Debug\net6.0\Taking a Number.pdb
+C:\Users\stank\source\repos\Taking a Number\Taking a Number\obj\Debug\net6.0\Taking a Number.csproj.AssemblyReference.cache
+C:\Users\stank\source\repos\Taking a Number\Taking a Number\obj\Debug\net6.0\Taking a Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stank\source\repos\Taking a Number\Taking a Number\obj\Debug\net6.0\Taking a Number.AssemblyInfoInputs.cache
+C:\Users\stank\source\repos\Taking a Number\Taking a Number\obj\Debug\net6.0\Taking a Number.AssemblyInfo.cs
+C:\Users\stank\source\repos\Taking a Number\Taking a Number\obj\Debug\net6.0\Taking a Number.csproj.CoreCompileInputs.cache
+C:\Users\stank\source\repos\Taking a Number\Taking a Number\obj\Debug\net6.0\Taking a Number.dll
+C:\Users\stank\source\repos\Taking a Number\Taking a Number\obj\Debug\net6.0\refint\Taking a Number.dll
+C:\Users\stank\source\repos\Taking a Number\Taking a Number\obj\Debug\net6.0\Taking a Number.pdb
+C:\Users\stank\source\repos\Taking a Number\Taking a Number\obj\Debug\net6.0\Taking a Number.genruntimeconfig.cache
+C:\Users\stank\source\repos\Taking a Number\Taking a Number\obj\Debug\net6.0\ref\Taking a Number.dll

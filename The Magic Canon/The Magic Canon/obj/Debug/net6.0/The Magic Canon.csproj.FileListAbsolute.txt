@@ -1,0 +1,15 @@
+C:\Users\stank\source\repos\The Magic Canon\The Magic Canon\bin\Debug\net6.0\The Magic Canon.exe
+C:\Users\stank\source\repos\The Magic Canon\The Magic Canon\bin\Debug\net6.0\The Magic Canon.deps.json
+C:\Users\stank\source\repos\The Magic Canon\The Magic Canon\bin\Debug\net6.0\The Magic Canon.runtimeconfig.json
+C:\Users\stank\source\repos\The Magic Canon\The Magic Canon\bin\Debug\net6.0\The Magic Canon.dll
+C:\Users\stank\source\repos\The Magic Canon\The Magic Canon\bin\Debug\net6.0\The Magic Canon.pdb
+C:\Users\stank\source\repos\The Magic Canon\The Magic Canon\obj\Debug\net6.0\The Magic Canon.csproj.AssemblyReference.cache
+C:\Users\stank\source\repos\The Magic Canon\The Magic Canon\obj\Debug\net6.0\The Magic Canon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stank\source\repos\The Magic Canon\The Magic Canon\obj\Debug\net6.0\The Magic Canon.AssemblyInfoInputs.cache
+C:\Users\stank\source\repos\The Magic Canon\The Magic Canon\obj\Debug\net6.0\The Magic Canon.AssemblyInfo.cs
+C:\Users\stank\source\repos\The Magic Canon\The Magic Canon\obj\Debug\net6.0\The Magic Canon.csproj.CoreCompileInputs.cache
+C:\Users\stank\source\repos\The Magic Canon\The Magic Canon\obj\Debug\net6.0\The Magic Canon.dll
+C:\Users\stank\source\repos\The Magic Canon\The Magic Canon\obj\Debug\net6.0\refint\The Magic Canon.dll
+C:\Users\stank\source\repos\The Magic Canon\The Magic Canon\obj\Debug\net6.0\The Magic Canon.pdb
+C:\Users\stank\source\repos\The Magic Canon\The Magic Canon\obj\Debug\net6.0\The Magic Canon.genruntimeconfig.cache
+C:\Users\stank\source\repos\The Magic Canon\The Magic Canon\obj\Debug\net6.0\ref\The Magic Canon.dll
