@@ -1,0 +1,15 @@
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Point\The Point\bin\Debug\net6.0\The Point.exe
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Point\The Point\bin\Debug\net6.0\The Point.deps.json
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Point\The Point\bin\Debug\net6.0\The Point.runtimeconfig.json
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Point\The Point\bin\Debug\net6.0\The Point.dll
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Point\The Point\bin\Debug\net6.0\The Point.pdb
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Point\The Point\obj\Debug\net6.0\The Point.csproj.AssemblyReference.cache
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Point\The Point\obj\Debug\net6.0\The Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Point\The Point\obj\Debug\net6.0\The Point.AssemblyInfoInputs.cache
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Point\The Point\obj\Debug\net6.0\The Point.AssemblyInfo.cs
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Point\The Point\obj\Debug\net6.0\The Point.csproj.CoreCompileInputs.cache
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Point\The Point\obj\Debug\net6.0\The Point.dll
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Point\The Point\obj\Debug\net6.0\refint\The Point.dll
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Point\The Point\obj\Debug\net6.0\The Point.pdb
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Point\The Point\obj\Debug\net6.0\The Point.genruntimeconfig.cache
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Point\The Point\obj\Debug\net6.0\ref\The Point.dll
