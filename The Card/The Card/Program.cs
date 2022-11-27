@@ -1,46 +1,31 @@
-﻿int CardColorEnumCount = Enum.GetNames(typeof(CardColor)).Length;
-int CardRankEnumCount = Enum.GetNames(typeof(CardRank)).Length;
-int deckSize = CardColorEnumCount * CardRankEnumCount;
+﻿Color[] colors = new Color[] { Color.Red, Color.Green, Color.Blue, Color.Yellow };
+Rank[] ranks = new Rank[] { Rank.One, Rank.Two, Rank.Three, Rank.Four, Rank.Five, Rank.Six, Rank.Seven, Rank.Eight, Rank.Nine, Rank.Ten, Rank.DollarSign, Rank.Percent, Rank.Caret, Rank.Ampersand };
 
-Card[,] deck = new Card[CardColorEnumCount, CardRankEnumCount];
-
-
-foreach (var color in Enum.GetValues(typeof(CardColor)))
-    foreach (var rank in Enum.GetValues(typeof(CardRank)))
-    {
-        Card 
-    }
-
-
-//for (int i = 0; i < CardColorEnumCount; i++)
-//    for (int j = 0; j < CardRankEnumCount; j++)
-//    {
-//        deck[i, j] = new Card()
-//    }
-
-public class Card
+foreach (Color color in colors)
 {
-    public CardColor Color { get; }
-    public CardRank Rank { get; }
-
-
-    public Card (CardColor color, CardRank rank)
+    foreach (Rank rank in ranks)
     {
-        Color = color;
-        Rank = rank;
-    }
-
-
-
-    bool IsFaceCard(Card CardToCheck)
-    {
-        int rank = (int)CardToCheck.Rank;
-        if (rank <= 9)
-            return true;
-
-        return false;
+        Card card = new Card(rank, color);
+        Console.WriteLine($"The {card.Color} {card.Rank}");
     }
 }
 
-public enum CardColor { Red, Green, Blue, Yellow }
-public enum CardRank { One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Dollarsign, Percent, Caret, Ampersand }
+
+
+public class Card
+{
+    public Rank Rank { get; }
+    public Color Color { get; }
+
+    public Card(Rank rank, Color color)
+    {
+        Rank = rank;
+        Color = color;
+    }
+
+    public bool IsSymbol => Rank == Rank.Ampersand || Rank == Rank.Caret || Rank == Rank.DollarSign || Rank == Rank.Percent;
+    public bool IsNumber => !IsSymbol;
+}
+
+public enum Color { Red, Green, Blue, Yellow }
+public enum Rank { One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, DollarSign, Percent, Caret, Ampersand }
