@@ -1,0 +1,15 @@
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Locked Door\The Locked Door\bin\Debug\net6.0\The Locked Door.exe
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Locked Door\The Locked Door\bin\Debug\net6.0\The Locked Door.deps.json
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Locked Door\The Locked Door\bin\Debug\net6.0\The Locked Door.runtimeconfig.json
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Locked Door\The Locked Door\bin\Debug\net6.0\The Locked Door.dll
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Locked Door\The Locked Door\bin\Debug\net6.0\The Locked Door.pdb
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Locked Door\The Locked Door\obj\Debug\net6.0\The Locked Door.csproj.AssemblyReference.cache
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Locked Door\The Locked Door\obj\Debug\net6.0\The Locked Door.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Locked Door\The Locked Door\obj\Debug\net6.0\The Locked Door.AssemblyInfoInputs.cache
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Locked Door\The Locked Door\obj\Debug\net6.0\The Locked Door.AssemblyInfo.cs
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Locked Door\The Locked Door\obj\Debug\net6.0\The Locked Door.csproj.CoreCompileInputs.cache
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Locked Door\The Locked Door\obj\Debug\net6.0\The Locked Door.dll
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Locked Door\The Locked Door\obj\Debug\net6.0\refint\The Locked Door.dll
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Locked Door\The Locked Door\obj\Debug\net6.0\The Locked Door.pdb
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Locked Door\The Locked Door\obj\Debug\net6.0\The Locked Door.genruntimeconfig.cache
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\The Locked Door\The Locked Door\obj\Debug\net6.0\ref\The Locked Door.dll
