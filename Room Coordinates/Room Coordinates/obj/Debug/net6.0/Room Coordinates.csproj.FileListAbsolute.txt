@@ -1,0 +1,15 @@
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\Room Coordinates\Room Coordinates\bin\Debug\net6.0\Room Coordinates.exe
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\Room Coordinates\Room Coordinates\bin\Debug\net6.0\Room Coordinates.deps.json
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\Room Coordinates\Room Coordinates\bin\Debug\net6.0\Room Coordinates.runtimeconfig.json
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\Room Coordinates\Room Coordinates\bin\Debug\net6.0\Room Coordinates.dll
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\Room Coordinates\Room Coordinates\bin\Debug\net6.0\Room Coordinates.pdb
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\Room Coordinates\Room Coordinates\obj\Debug\net6.0\Room Coordinates.csproj.AssemblyReference.cache
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\Room Coordinates\Room Coordinates\obj\Debug\net6.0\Room Coordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\Room Coordinates\Room Coordinates\obj\Debug\net6.0\Room Coordinates.AssemblyInfoInputs.cache
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\Room Coordinates\Room Coordinates\obj\Debug\net6.0\Room Coordinates.AssemblyInfo.cs
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\Room Coordinates\Room Coordinates\obj\Debug\net6.0\Room Coordinates.csproj.CoreCompileInputs.cache
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\Room Coordinates\Room Coordinates\obj\Debug\net6.0\Room Coordinates.dll
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\Room Coordinates\Room Coordinates\obj\Debug\net6.0\refint\Room Coordinates.dll
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\Room Coordinates\Room Coordinates\obj\Debug\net6.0\Room Coordinates.pdb
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\Room Coordinates\Room Coordinates\obj\Debug\net6.0\Room Coordinates.genruntimeconfig.cache
+C:\Users\stank\Desktop\Coding Practice\Coding-Practice\Room Coordinates\Room Coordinates\obj\Debug\net6.0\ref\Room Coordinates.dll

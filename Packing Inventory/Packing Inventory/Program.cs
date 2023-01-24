@@ -37,6 +37,7 @@ while (true)
     Console.WriteLine($"broj itema: {torba.currentNumberOfItemsInBackpack}/{numberOfItems}");
     Console.WriteLine($"tezina: {torba.currentBackpackWeight}/{torba.MaxWeight}");
     Console.WriteLine($"tezina: {torba.currentBackpackVolume}/{torba.MaxVolume}");
+    Console.WriteLine(torba.ToString());
 }
 
 
@@ -67,6 +68,8 @@ public class Bow : InventoryItem
     {
 
     }
+
+    public override string ToString() => "Bow";
 }
 
 public class Rope : InventoryItem
@@ -75,6 +78,7 @@ public class Rope : InventoryItem
     {
 
     }
+    public override string ToString() => "Rope";
 }
 
 public class Water : InventoryItem
@@ -83,6 +87,7 @@ public class Water : InventoryItem
     {
 
     }
+    public override string ToString() => "Water";
 }
 
 public class Food : InventoryItem
@@ -91,6 +96,7 @@ public class Food : InventoryItem
     {
 
     }
+    public override string ToString() => "Food";
 }
 
 public class Sword : InventoryItem
@@ -99,6 +105,7 @@ public class Sword : InventoryItem
     {
 
     }
+    public override string ToString() => "Sword";
 }
 
 public class Pack
@@ -116,6 +123,17 @@ public class Pack
         Backpack = new InventoryItem[numberOfItems];
         MaxVolume = maxVolume;
         MaxWeight = maxWeight;
+    }
+
+    public override string ToString()
+    {
+        string contents = "Pack containing ";
+        if (currentNumberOfItemsInBackpack == 0) contents += "Nothing";
+
+        for (int itemNumber = 0; itemNumber < currentNumberOfItemsInBackpack; itemNumber++)
+            contents += Backpack[itemNumber].ToString() + " ";
+
+        return contents;
     }
 
     public bool Add(InventoryItem item)
